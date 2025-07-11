@@ -4,7 +4,7 @@ Welcome! You probably found this through the Sky Studs Server.
 This is a simple, user-friendly ModLoader for **Cube Combination**, designed to make adding new content as easy as dragging a file (most cc players can't script shit!).
 
 ### Currently Supported:
-```diff
+```
 - Cubes  
 - Craftings  
 - Entities  
