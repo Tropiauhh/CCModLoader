@@ -10,6 +10,7 @@ This is a simple, user-friendly ModLoader for [**Cube Combination**](https://www
 - Entities  
 - Effects  
 - Assets  
+- Scripts
 ```
 
 All of these are automatically imported into the game's files for easy use.
